@@ -1,7 +1,7 @@
-streamlit
-numpy
-pandas
-scikit-learn
-tensorflow
+numpy==2.2.4
+pandas==2.3.3
+scikit-learn==1.7.2
+streamlit==1.59.2
 opencv-python-headless
-streamlit-drawable-canvas
+streamlit-drawable-canvas==0.9.3
+tensorflow
